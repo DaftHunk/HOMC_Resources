@@ -1,7 +1,7 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "items/empty_armor_slot_shield"
+    "layer0": "item/empty_armor_slot_shield"
   },
   "display": {
     "thirdperson_righthand": {
